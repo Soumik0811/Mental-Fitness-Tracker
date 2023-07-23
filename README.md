@@ -1,7 +1,7 @@
 
 **Mental Fitness Tracker**
 
-##Overview
+Overview
 The Mental Fitness Tracker is a machine learning project aimed at predicting mental fitness ratings using various regression models. The project utilizes a dataset with features such as country, year, and percentages of different mental health disorders, including schizophrenia, eating disorders, depression disorders, bipolar disorder, anxiety disorders, alcohol use disorders, etc. The goal is to develop an accurate model that can predict mental fitness ratings based on these features.
 
 Regression Models
